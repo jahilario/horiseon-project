@@ -1,1 +1,1 @@
-# horiseon-project
+# Heroseon
